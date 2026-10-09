@@ -1,2 +1,5 @@
 memory:
   provider: hindsight
+discord:
+  require_mention: true
+  auto_thread: false
