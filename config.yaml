@@ -3,3 +3,5 @@ memory:
 discord:
   require_mention: true
   auto_thread: false
+web:
+  backend: tavily
